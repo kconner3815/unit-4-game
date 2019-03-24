@@ -14,7 +14,7 @@
 // value at the begining of game PS dont set to an empty string or will be undegined
 
 
-$( document ).ready(function() {
+$(document).ready(function() {
 
 var randomResult; 
 
